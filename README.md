@@ -30,6 +30,15 @@ This repo is a collection of AWESOME things concerning mathematical problem solv
 
     *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman.* 
 
+* **[]()** x. x. [[code](x)] 
+
+    *x* 
+
+* **[]()** x. x. [[code](x)] 
+
+    *x* 
+
+
 * **[DEDUCTREASONER'22](https://arxiv.org/pdf/2203.10316.pdf)** Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction. ACL 2022. [[code](https://github.com/allanj/Deductive-MWP)] 
 
     *Jie, Zhanming and Li, Jierui and Lu, Wei.* 
@@ -46,4 +55,22 @@ This repo is a collection of AWESOME things concerning mathematical problem solv
 
 
 
-### Traditional MWP Solving (including ML-based)
+## Geometric Problem Solving
+
+* **[]()** x. x. [[code](x)] 
+
+    *x* 
+
+* **[]()** x. x. [[code](x)] 
+
+    *x* 
+
+## Other Tasks
+
+* **[[COMUS'22]](https://aclanthology.org/2022.acl-long.408/)** Continual Pre-training of Language Models for Math Problem Understanding with Syntax-Aware Memory Network. ACL 2022. [[code](x)] 
+
+    *Zheng Gong, Kun Zhou, Wayne Xin Zhao, Jing Sha, Shijin Wang, Ji-Rong Wen.* 
+
+* **[JiuZhang'22](https://arxiv.org/pdf/2206.06315.pdf)** JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding. KDD 2022. [[code](x)] 
+
+    *Wayne Xin Zhao, Kun Zhou, Zheng Gong, Beichen Zhang, Yuanhang Zhou, Jing Sha, Zhigang Chen, Shijin Wang, Cong Liu, Ji-Rong Wen* 
