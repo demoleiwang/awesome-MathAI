@@ -23,10 +23,10 @@ This repo is a collection of AWESOME things concerning mathematical problem solv
 
 ### Deep Learning-based MWP Solving (w/o Pretraining)
 
-
+* **[[GTS'19]](https://www.ijcai.org/proceedings/2019/0736.pdf)** A Goal-Driven Tree-Structured Neural Model for Math Word Problems. IJCAI 2019. [[code](https://github.com/ShichaoSun/math_seq2tree)]
 ### Deep Learning-based MWP Solving (w/ Pretraining or w/ Pretrained Models)
 
-* **[Verifier'21](https://arxiv.org/pdf/2110.14168.pdf)** Training Verifiers to Solve Math Word Problems. arXiv 2021. [[code](https://github.com/openai/grade-school-math)] 
+* **[[Verifier'21]](https://arxiv.org/pdf/2110.14168.pdf)** Training Verifiers to Solve Math Word Problems. arXiv 2021. [[code](https://github.com/openai/grade-school-math)] 
 
     *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman.* 
 
