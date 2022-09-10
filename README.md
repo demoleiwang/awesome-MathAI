@@ -23,32 +23,41 @@ This repo is a collection of AWESOME things concerning mathematical problem solv
 
 ### Deep Learning-based MWP Solving (w/o Pretraining)
 
+* **[]()** x. x. [[code](x)] 
+
+    *x* 
+
 
 ### Deep Learning-based MWP Solving (w/ Pretraining or w/ Pretrained Models)
 
 * **[Verifier'21](https://arxiv.org/pdf/2110.14168.pdf)** Training Verifiers to Solve Math Word Problems. arXiv 2021. [[code](https://github.com/openai/grade-school-math)] 
 
     *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman.* 
-
+    
 * **[]()** x. x. [[code](x)] 
 
     *x* 
 
-* **[]()** x. x. [[code](x)] 
 
-    *x* 
+* **[[MWPToolkit'22]](https://ojs.aaai.org/index.php/AAAI/article/download/21723/21472)** Mwptoolkit: An open-source framework for deep learning-based math word problem solvers. AAAI 2022. [[code](https://github.com/LYH-YF/MWPToolkit)] 
+
+    *Yihuai Lan, Lei Wang, Qiyuan Zhang, Yunshi Lan, Bing Tian Dai, Yan Wang, Dongxiang Zhang, Ee-Peng Lim.* 
+
+* **[[MWP-BERT'22]](https://aclanthology.org/2022.findings-naacl.74.pdf)** MWP-BERT: Numeracy-augmented pre-training for math word problem solving. NAACL Findings 2022. [[code](https://github.com/LZhenwen/MWP-BERT)] 
+
+    *Zhenwen Liang, Jipeng Zhang, Lei Wang, Wei Qin, Yunshi Lan, Jie Shao, Xiangliang Zhang.* 
 
 
-* **[DEDUCTREASONER'22](https://arxiv.org/pdf/2203.10316.pdf)** Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction. ACL 2022. [[code](https://github.com/allanj/Deductive-MWP)] 
+* **[[DEDUCTREASONER'22]](https://arxiv.org/pdf/2203.10316.pdf)** Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction. ACL 2022. [[code](https://github.com/allanj/Deductive-MWP)] 
 
     *Jie, Zhanming and Li, Jierui and Lu, Wei.* 
 
-* **[CT'22](https://arxiv.org/pdf/2201.11903.pdf)** Chain of Thought Prompting Elicits Reasoning in Large Language Models [[code](https://github.com/jasonwei20/chain-of-thought-prompting)] 
+* **[[CT'22]](https://arxiv.org/pdf/2201.11903.pdf)** Chain of Thought Prompting Elicits Reasoning in Large Language Models [[code](https://github.com/jasonwei20/chain-of-thought-prompting)] 
 
     *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou.* 
 
 
-* **[Self-Consistency'22](https://arxiv.org/pdf/2203.11171.pdf)** Self-Consistency Improves Chain of Thought Reasoning in Language Models
+* **[[Self-Consistency'22]](https://arxiv.org/pdf/2203.11171.pdf)** Self-Consistency Improves Chain of Thought Reasoning in Language Models
 
     *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou.* 
 
@@ -57,20 +66,25 @@ This repo is a collection of AWESOME things concerning mathematical problem solv
 
 ## Geometric Problem Solving
 
-* **[]()** x. x. [[code](x)] 
+* **[[GEOS'15]](https://aclanthology.org/D15-1171.pdf)** Solving Geometry Problems: Combining Text and Diagram Interpretation. EMNLP 2015.
 
-    *x* 
+    *Minjoon Seo, Hannaneh Hajishirzi, Ali Farhadi, Oren Etzioni, Clint Malcolm.* 
 
-* **[]()** x. x. [[code](x)] 
+* **[[GeoQA'21]](https://aclanthology.org/2021.findings-acl.46.pdf)** GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning. ACL Findings 2021. [[code](https://github.com/chen-judge/GeoQA)] 
 
-    *x* 
+    *Jiaqi Chen, Jianheng Tang, Jinghui Qin, Xiaodan Liang, Lingbo Liu, E. Xing, Liang Lin.* 
+    
+* **[[Inter-GPS'21]](https://arxiv.org/pdf/2105.04165.pdf)** Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning. ACL 2021. [[code](https://lupantech.github.io/inter-gps/)] 
 
-## Other Tasks
+    *Pan Lu, Ran Gong, Shibiao Jiang, Liang Qiu, Siyuan Huang, Xiaodan Liang, Song-Chun Zhu.* 
+
+
+## Others
 
 * **[[COMUS'22]](https://aclanthology.org/2022.acl-long.408/)** Continual Pre-training of Language Models for Math Problem Understanding with Syntax-Aware Memory Network. ACL 2022. [[code](x)] 
 
     *Zheng Gong, Kun Zhou, Wayne Xin Zhao, Jing Sha, Shijin Wang, Ji-Rong Wen.* 
 
-* **[JiuZhang'22](https://arxiv.org/pdf/2206.06315.pdf)** JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding. KDD 2022. [[code](x)] 
+* **[[JiuZhang'22]](https://arxiv.org/pdf/2206.06315.pdf)** JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding. KDD 2022. [[code](x)] 
 
     *Wayne Xin Zhao, Kun Zhou, Zheng Gong, Beichen Zhang, Yuanhang Zhou, Jing Sha, Zhigang Chen, Shijin Wang, Cong Liu, Ji-Rong Wen* 
