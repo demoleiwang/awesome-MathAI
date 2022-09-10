@@ -24,7 +24,15 @@ This repo is a collection of AWESOME things concerning mathematical problem solv
 ### Deep Learning-based MWP Solving (w/o Pretraining)
 
 
-### Deep Learning-based MWP Solving (w/ Pretraining)
+### Deep Learning-based MWP Solving (w/ Pretraining or w/ Pretrained Models)
+
+* **[Verifier'21](https://arxiv.org/pdf/2110.14168.pdf)** Training Verifiers to Solve Math Word Problems. arXiv 2021. [[code](https://github.com/openai/grade-school-math)] 
+
+    *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman.* 
+
+* **[DEDUCTREASONER'22](https://arxiv.org/pdf/2203.10316.pdf)** Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction. ACL 2022. [[code](https://github.com/allanj/Deductive-MWP)] 
+
+    *Jie, Zhanming and Li, Jierui and Lu, Wei.* 
 
 * **[CT'22](https://arxiv.org/pdf/2201.11903.pdf)** Chain of Thought Prompting Elicits Reasoning in Large Language Models [[code](https://github.com/jasonwei20/chain-of-thought-prompting)] 
 
