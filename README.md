@@ -13,10 +13,18 @@ This repo is a collection of AWESOME things concerning mathematical problem solv
 
 -->
 
-## Deep Learning-based MWP Solvers
+## Mathematical Problem Solving
 
-### 
+* **[MATH'21](https://arxiv.org/abs/2103.03874)** Measuring Mathematical Problem Solving With the MATH Dataset. NeurIPS DB 2021. [[code](https://github.com/hendrycks/math)] 
 
+    *Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, Jacob Steinhardt.* 
+
+## MWP Solving
+
+### Deep Learning-based MWP Solving (w/o Pretraining)
+
+
+### Deep Learning-based MWP Solving (w/ Pretraining)
 
 * **[CT'22](https://arxiv.org/pdf/2201.11903.pdf)** Chain of Thought Prompting Elicits Reasoning in Large Language Models [[code](https://github.com/jasonwei20/chain-of-thought-prompting)] 
 
@@ -30,4 +38,4 @@ This repo is a collection of AWESOME things concerning mathematical problem solv
 
 
 
-## Traditional MWP Solvers (including ML-based)
+### Traditional MWP Solving (including ML-based)
