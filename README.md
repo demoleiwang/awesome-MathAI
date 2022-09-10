@@ -26,6 +26,19 @@ This repo is a collection of AWESOME things concerning mathematical problem solv
 * **[[GTS'19]](https://www.ijcai.org/proceedings/2019/0736.pdf)** A Goal-Driven Tree-Structured Neural Model for Math Word Problems. IJCAI 2019. [[code](https://github.com/ShichaoSun/math_seq2tree)]
 
    *Zhipeng Xie, Shichao Sun.*
+   
+* **[[SAUSolver'20]](https://aclanthology.org/2020.emnlp-main.309.pdf)** Semantically-Aligned Universal Tree-Structured Solver for Math Word
+Problems. EMNLP 2020. [[code](https://github.com/QinJinghui/SAU-Solver)]
+   
+   *Jinghui Qin, Lihui Lin, Xiaodan Liang, Rumin Zhang, Liang Lin.*
+
+* **[[Graph2Tree'20]](https://aclanthology.org/2020.acl-main.362.pdf)** Graph-to-Tree Learning for Solving Math Word Problems. ACL 2020. [[code](https://github.com/2003pro/Graph2Tree)]
+
+   *Jipeng Zhang, Lei Wang, Roy Ka-Wei Lee, Yi Bin, Yan Wang, Jie Shao, Ee-Peng Lim.*
+
+* **[[TSN-MD'20]](https://www.ijcai.org/proceedings/2020/0555.pdf)** Teacher-Student Networks with Multiple Decoders for Solving Math Word Problem. IJCAI 2020. [[code](https://github.com/2003pro/TSN-MD)]
+
+   *Jipeng Zhang, Roy Ka-Wei Lee, Ee-Peng Lim, Wei Qin, Lei Wang, Jie Shao, Qianru Sun.*
 
 ### Deep Learning-based MWP Solving (w/ Pretraining or w/ Pretrained Models)
 
