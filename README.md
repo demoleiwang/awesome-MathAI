@@ -23,21 +23,12 @@ This repo is a collection of AWESOME things concerning mathematical problem solv
 
 ### Deep Learning-based MWP Solving (w/o Pretraining)
 
-* **[]()** x. x. [[code](x)] 
-
-    *x* 
-
 
 ### Deep Learning-based MWP Solving (w/ Pretraining or w/ Pretrained Models)
 
 * **[Verifier'21](https://arxiv.org/pdf/2110.14168.pdf)** Training Verifiers to Solve Math Word Problems. arXiv 2021. [[code](https://github.com/openai/grade-school-math)] 
 
     *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman.* 
-    
-* **[]()** x. x. [[code](x)] 
-
-    *x* 
-
 
 * **[[MWPToolkit'22]](https://ojs.aaai.org/index.php/AAAI/article/download/21723/21472)** Mwptoolkit: An open-source framework for deep learning-based math word problem solvers. AAAI 2022. [[code](https://github.com/LYH-YF/MWPToolkit)] 
 
@@ -77,6 +68,18 @@ This repo is a collection of AWESOME things concerning mathematical problem solv
 * **[[Inter-GPS'21]](https://arxiv.org/pdf/2105.04165.pdf)** Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning. ACL 2021. [[code](https://lupantech.github.io/inter-gps/)] 
 
     *Pan Lu, Ran Gong, Shibiao Jiang, Liang Qiu, Siyuan Huang, Xiaodan Liang, Song-Chun Zhu.* 
+
+    
+* **[[PGDP'22]](https://arxiv.org/abs/2205.09363)** Plane Geometry Diagram Parsing. IJCAI 2022. [[code](x)] 
+
+    *Mingwei Zhang, Fei Yin, Yilun Hao, Cheng-Lin Liu.* 
+
+    
+* **[[PGDP5K'22]](https://arxiv.org/pdf/2205.09947.pdf)** PGDP5K: A Diagram Parsing Dataset for Plane Geometry Problems. arXiv 2022. [[code](x)] 
+
+    *Yihan Hao, Mingliang Zhang, Fei Yin, Linlin Huang.* 
+
+
 
 
 ## Others
