@@ -23,6 +23,10 @@ This repo is a collection of AWESOME things concerning mathematical problem solv
 
 ### Deep Learning-based MWP Solving (w/o Pretraining)
 
+* **[[DNS'17]](https://aclanthology.org/D17-1088.pdf)** Deep Neural Solver for Math Word Problems. EMNLP 2017. 
+
+   *Yan Wang, Xiaojiang Liu, Shuming Shi.*
+
 * **[[GTS'19]](https://www.ijcai.org/proceedings/2019/0736.pdf)** A Goal-Driven Tree-Structured Neural Model for Math Word Problems. IJCAI 2019. [[code](https://github.com/ShichaoSun/math_seq2tree)]
 
    *Zhipeng Xie, Shichao Sun.*
