@@ -3,7 +3,7 @@
 This repo is a collection of AWESOME things concerning mathematical problem solving, math word problem (MWP) solving, and geometric problem solving, including papers, code, etc. Feel free to star and fork.
 
 
-![](https://img.shields.io/github/last-commit/demoleiwang/awesome-MathAI?color=green) ![](https://img.shields.io/badge/PaperNumber-10-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/demoleiwang/awesome-MathAI?color=green) ![](https://img.shields.io/badge/PaperNumber-19-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- 
 
